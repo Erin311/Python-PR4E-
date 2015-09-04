@@ -1,0 +1,7 @@
+X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
+X-Content-Type-Message-Body: text/plain; charset=UTF-8
+Content-Type: text/plain; charset=UTF-8
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Fri Jan  4 18:10:48 2008
+X-DSPAM-Confidence: 0.6178
+X-DSPAM-Probability: 0.0000
